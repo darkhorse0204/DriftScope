@@ -1,0 +1,19 @@
+# Big Data / Large Files
+data_lake/
+embeddings_lake/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Debug scripts
+debug_spark.py
+
+# Models
+sentence_transformers/

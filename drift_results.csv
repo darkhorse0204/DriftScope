@@ -1,0 +1,26 @@
+Topic,Year,Semantic_Drift_Score,Semantic_Drift_Velocity,Fact_Stability_Index,Semantic_Shock,PaperCount
+AI,2010,,,Unknown,False,0
+AI,2015,,,Unknown,False,0
+AI,2020,0.0,0.0,Stable,False,2
+AI,2023,0.7528,0.7528,Volatile,True,1
+AI,2025,0.5044,0.7202,Volatile,True,2
+Blockchain,2010,,,Unknown,False,0
+Blockchain,2015,,,Unknown,False,0
+Blockchain,2020,0.0,0.0,Stable,False,1
+Blockchain,2023,0.4732,0.4732,Evolving,True,2
+Blockchain,2025,0.4318,0.2905,Evolving,True,6
+Climate Change,2010,0.0,0.0,Stable,False,3
+Climate Change,2015,0.3667,0.3667,Evolving,True,2
+Climate Change,2020,0.3876,0.3426,Evolving,True,5
+Climate Change,2023,0.546,0.4168,Volatile,True,2
+Climate Change,2025,0.5317,0.4442,Volatile,True,1
+Transformers,2010,,,Unknown,False,0
+Transformers,2015,,,Unknown,False,0
+Transformers,2020,-0.0,0.0,Stable,False,1
+Transformers,2023,,,Unknown,False,0
+Transformers,2025,0.8492,0.8492,Volatile,True,2
+COVID,2010,,,Unknown,False,0
+COVID,2015,,,Unknown,False,0
+COVID,2020,,,Unknown,False,0
+COVID,2023,,,Unknown,False,0
+COVID,2025,0.0,0.0,Stable,False,13

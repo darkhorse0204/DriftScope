@@ -1,0 +1,21 @@
+Topic,Year,Semantic_Drift_Score,Semantic_Drift_Velocity,Fact_Stability_Index,Semantic_Shock
+AI,2010,0.00,0.00,Stable,False
+AI,2015,0.12,0.02,Stable,False
+AI,2020,0.35,0.04,Evolving,False
+AI,2023,0.78,0.14,Volatile,True
+AI,2025,0.85,0.03,Volatile,False
+Blockchain,2010,0.00,0.00,Stable,False
+Blockchain,2015,0.45,0.09,Volatile,True
+Blockchain,2020,0.55,0.02,Volatile,False
+Blockchain,2023,0.60,0.01,Volatile,False
+Blockchain,2025,0.62,0.01,Stable,False
+COVID,2010,0.00,0.00,Stable,False
+COVID,2015,0.02,0.00,Stable,False
+COVID,2020,0.89,0.17,Volatile,True
+COVID,2023,0.92,0.01,Volatile,False
+COVID,2025,0.94,0.01,Stable,False
+Climate Change,2010,0.00,0.00,Stable,False
+Climate Change,2015,0.10,0.02,Stable,False
+Climate Change,2020,0.25,0.03,Evolving,False
+Climate Change,2023,0.30,0.01,Evolving,False
+Climate Change,2025,0.35,0.02,Evolving,False
